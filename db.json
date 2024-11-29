@@ -2,245 +2,30 @@
   "items": {
     "result": [
       {
-        "barcode": "1234AAAA",
-        "fco": "1234",
+        "barcode": "1111AAAA",
+        "fco": "1111",
         "kost": "AAAA"
       },
       {
-        "barcode": "1234AAAB",
-        "fco": "1234",
+        "barcode": "2222AAAB",
+        "fco": "2222",
         "kost": "AAAB"
       },
       {
-        "barcode": "1234AAAC",
-        "fco": "1234",
+        "barcode": "3333AAAC",
+        "fco": "3333",
         "kost": "AAAC"
       },
       {
-        "barcode": "1234AAAD",
-        "fco": "1234",
+        "barcode": "4444AAAD",
+        "fco": "4444",
         "kost": "AAAD"
       },
       {
-        "barcode": "1234AAAE",
-        "fco": "1234",
+        "barcode": "5555AAAE",
+        "fco": "5555",
         "kost": "AAAE"
       },
-      {
-        "barcode": "1234AAAF",
-        "fco": "1234",
-        "kost": "AAAF"
-      },
-      {
-        "barcode": "1234AAAG",
-        "fco": "1234",
-        "kost": "AAAG"
-      },
-      {
-        "barcode": "1234AAAH",
-        "fco": "1234",
-        "kost": "AAAH"
-      },
-      {
-        "barcode": "1234AAAI",
-        "fco": "1234",
-        "kost": "AAAI"
-      },
-      {
-        "barcode": "1234AAAJ",
-        "fco": "1234",
-        "kost": "AAAJ"
-      },
-      {
-        "barcode": "1234AAAK",
-        "fco": "1234",
-        "kost": "AAAK"
-      },
-      {
-        "barcode": "1234AAAL",
-        "fco": "1234",
-        "kost": "AAAL"
-      },
-      {
-        "barcode": "1234AAAM",
-        "fco": "1234",
-        "kost": "AAAM"
-      },
-      {
-        "barcode": "1234AAAN",
-        "fco": "1234",
-        "kost": "AAAN"
-      },
-      {
-        "barcode": "1234AAAO",
-        "fco": "1234",
-        "kost": "AAAO"
-      },
-      {
-        "barcode": "1234AAAP",
-        "fco": "1234",
-        "kost": "AAAP"
-      },
-      {
-        "barcode": "1234AAAQ",
-        "fco": "1234",
-        "kost": "AAAQ"
-      },
-      {
-        "barcode": "1234AAAR",
-        "fco": "1234",
-        "kost": "AAAR"
-      },
-      {
-        "barcode": "1234AAAS",
-        "fco": "1234",
-        "kost": "AAAS"
-      },
-      {
-        "barcode": "1234AAAT",
-        "fco": "1234",
-        "kost": "AAAT"
-      },
-      {
-        "barcode": "1234AAAU",
-        "fco": "1234",
-        "kost": "AAAU"
-      },
-      {
-        "barcode": "1234AAAV",
-        "fco": "1234",
-        "kost": "AAAV"
-      },
-      {
-        "barcode": "1234AAAW",
-        "fco": "1234",
-        "kost": "AAAW"
-      },
-      {
-        "barcode": "1234AAAX",
-        "fco": "1234",
-        "kost": "AAAX"
-      },
-      {
-        "barcode": "1234AAAY",
-        "fco": "1234",
-        "kost": "AAAY"
-      },
-      {
-        "barcode": "1234AAAZ",
-        "fco": "1234",
-        "kost": "AAAZ"
-      },
-      {
-        "barcode": "1234AABA",
-        "fco": "1234",
-        "kost": "AABA"
-      },
-      {
-        "barcode": "1234AABB",
-        "fco": "1234",
-        "kost": "AABB"
-      },
-      {
-        "barcode": "1234AABC",
-        "fco": "1234",
-        "kost": "AABC"
-      },
-      {
-        "barcode": "1234AABD",
-        "fco": "1234",
-        "kost": "AABD"
-      },
-      {
-        "barcode": "1234AABE",
-        "fco": "1234",
-        "kost": "AABE"
-      },
-      {
-        "barcode": "1234AABF",
-        "fco": "1234",
-        "kost": "AABF"
-      },
-      {
-        "barcode": "1234AABG",
-        "fco": "1234",
-        "kost": "AABG"
-      },
-      {
-        "barcode": "1234AABH",
-        "fco": "1234",
-        "kost": "AABH"
-      },
-      {
-        "barcode": "1234AABI",
-        "fco": "1234",
-        "kost": "AABI"
-      },
-      {
-        "barcode": "1234AABJ",
-        "fco": "1234",
-        "kost": "AABJ"
-      },
-      {
-        "barcode": "1234AABK",
-        "fco": "1234",
-        "kost": "AABK"
-      },
-      {
-        "barcode": "1234AABL",
-        "fco": "1234",
-        "kost": "AABL"
-      },
-      {
-        "barcode": "1234AABM",
-        "fco": "1234",
-        "kost": "AABM"
-      },
-      {
-        "barcode": "1234AABN",
-        "fco": "1234",
-        "kost": "AABN"
-      },
-      {
-        "barcode": "1234AABO",
-        "fco": "1234",
-        "kost": "AABO"
-      },
-      {
-        "barcode": "1234AABP",
-        "fco": "1234",
-        "kost": "AABP"
-      },
-      {
-        "barcode": "1234AABQ",
-        "fco": "1234",
-        "kost": "AABQ"
-      },
-      {
-        "barcode": "1234AABR",
-        "fco": "1234",
-        "kost": "AABR"
-      },
-      {
-        "barcode": "1234AABS",
-        "fco": "1234",
-        "kost": "AABS"
-      },
-      {
-        "barcode": "1234AABT",
-        "fco": "1234",
-        "kost": "AABT"
-      },
-      {
-        "barcode": "1234AABU",
-        "fco": "1234",
-        "kost": "AABU"
-      },
-      {
-        "barcode": "1234AABV",
-        "fco": "1234",
-        "kost": "AABV"
-      }
     ],
     "total": 50
   }
