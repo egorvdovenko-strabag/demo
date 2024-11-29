@@ -1,9 +1,17 @@
 {
-  "items": [
-    {
-      "barcode": "1234AAAX",
-      "fco": "1234",
-      "kost": "AAAX"
-    }
-  ]
+  "items": {
+    "result": [
+      {
+        "barcode": "1234AAAA",
+        "fco": "1234",
+        "kost": "AAAA"
+      },
+      {
+        "barcode": "1234AAAB",
+        "fco": "1234",
+        "kost": "AAAB"
+      }
+    ],
+    "total": 2
+  }
 }
