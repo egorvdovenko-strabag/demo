@@ -1,32 +1,22 @@
 {
   "items": {
     "result": [
-      {
-        "barcode": "1111AAAA",
-        "fco": "1111",
-        "kost": "AAAA"
-      },
-      {
-        "barcode": "2222AAAB",
-        "fco": "2222",
-        "kost": "AAAB"
-      },
-      {
-        "barcode": "3333AAAC",
-        "fco": "3333",
-        "kost": "AAAC"
-      },
-      {
-        "barcode": "4444AAAD",
-        "fco": "4444",
-        "kost": "AAAD"
-      },
-      {
-        "barcode": "5555AAAE",
-        "fco": "5555",
-        "kost": "AAAE"
-      }
+      { "barcode": "1111AAAA", "fco": "1111", "kost": "AAAA" },
+      { "barcode": "2222AAAB", "fco": "2222", "kost": "AAAB" },
+      { "barcode": "3333AAAC", "fco": "3333", "kost": "AAAC" },
+      { "barcode": "4444AAAD", "fco": "4444", "kost": "AAAD" },
+      { "barcode": "5555AAAE", "fco": "5555", "kost": "AAAE" },
+      { "barcode": "6666AAAF", "fco": "6666", "kost": "AAAF" },
+      { "barcode": "7777AAAG", "fco": "7777", "kost": "AAAG" },
+      { "barcode": "8888AAAH", "fco": "8888", "kost": "AAAH" },
+      { "barcode": "9999AAAI", "fco": "9999", "kost": "AAAI" },
+      { "barcode": "1010AAAJ", "fco": "1010", "kost": "AAAJ" },
+      { "barcode": "1111AAAK", "fco": "1111", "kost": "AAAK" },
+      { "barcode": "1212AAAL", "fco": "1212", "kost": "AAAL" },
+      { "barcode": "1313AAAM", "fco": "1313", "kost": "AAAM" },
+      { "barcode": "1414AAAN", "fco": "1414", "kost": "AAAN" },
+      { "barcode": "1515AAAO", "fco": "1515", "kost": "AAAO" }
     ],
-    "total": 50
+    "total": 15
   }
 }
